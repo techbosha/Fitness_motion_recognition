@@ -1,4 +1,4 @@
-請建立以下14個資料夾
+請建立以下13個資料夾:
 barbell biceps curl (二頭彎舉)
 bench press (平胸臥推)
 chest fly machine (機械夾胸)
