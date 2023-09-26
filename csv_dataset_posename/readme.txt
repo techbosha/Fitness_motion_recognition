@@ -1,0 +1,15 @@
+請建立以下14個資料夾
+barbell biceps curl (二頭彎舉)
+bench press (平胸臥推)
+chest fly machine (機械夾胸)
+deadlift (硬舉)
+hip thrust (臀推)
+lat pulldown (滑輪下拉)
+lateral raise (飛鳥)
+leg extension (雙腿伸屈)
+leg raises (懸吊抬腿)
+list.txt
+pull up (引體向上)
+russian twist (俄羅斯轉體)
+shoulder press (肩推)
+squat (深蹲)
